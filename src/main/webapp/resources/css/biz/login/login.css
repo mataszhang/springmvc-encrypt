@@ -1,0 +1,37 @@
+
+.sub_title {
+	margin-left: 0;
+	
+}
+
+.sub_title_contact {
+    font-size: 12px !important;
+    line-height: 32px;
+    color: #585858;
+}
+
+.black-line-bottom {
+    width: 112%;
+    height: 30px;
+    border-bottom: 1px solid black;
+    text-align: left;
+    margin-bottom: 40px;
+    margin-left: -19px;
+}
+
+.black-line-top {
+    width: 112%;
+    height: 30px;
+    border-top: 1px solid black;
+	margin-top: 27px;
+    margin-left: -19px;
+}
+
+.password-text, .username-text {
+	
+}
+
+#username, #password {
+	display: inline;
+    width: 70%;
+}

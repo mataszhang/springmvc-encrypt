@@ -1,0 +1,8 @@
+
+http://localhost:8080/springmvc-encrypt/api/v1?apiVersion=1.0&clientOS=android&clientVersion=4.7&signKey=123123&channel=free
+
+{"key1":"qingshagn", "key2":12}
+
+上面用RSA公钥加密后，得到
+djL+qxf9tp9Ni0CKLWOCOMxwSNrM0ROkM3av6nKHnoSBalGtgYjlSfYPgF9HS2JtXwxJFLHleWaUWMGVT7k03trPHSRoKi2cVcpjJHUaGdXYAr6Nd6PpvCy3WBrRuukLQGvX4DN1yum32DfNzbubKUoh5MnwOoztOH3hQWUgZFU=
+
